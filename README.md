@@ -40,38 +40,45 @@ To facilitate comparison, we split the target commands into two groups, one half
 We first show five groups of AEs on Google Assistant in the physical world:
 
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/701e06d7-e948-4e0f-bac0-0135eddae9bc
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/71214dff-5e78-4f6d-9021-571a8bb8eaec
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/b9b2a2b7-5af1-45c2-8f8c-cceb5ed14b0d
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/08b8da7d-a22a-4f5c-b088-2d16c9cc2468
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/173c61cd-7116-4f13-b656-5d26f8d5832d
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/8962286b-5075-4aec-9735-697f600d8b7e
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/2b93a0f7-8785-4f5b-a864-a0992646c2f8
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/92bed9f4-0c22-4d6f-9856-b036c729658a
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/0cbe1910-da85-4256-b4d9-d0e12f70276b
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/2ed19fda-e55c-47e8-9ca0-7e71570bcf0f
 
 
 Next we present five groups of AEs in the digital world:
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/7f24c697-2408-448f-a0e4-e09acd213f44
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/4a6022ff-06f5-49bb-b360-52aa72ff7b19
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/bef9f92d-0bb0-488b-bbd6-6d96b1c59f84
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/b03d2a73-b014-4d3f-8fab-5ca56f011713
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/897e5909-a4f6-4ce7-8fb5-ba73c914f5e0
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/c136ae05-1b38-4acd-a5ea-adc62b687fb3
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/861736c1-95e8-44d5-8ca1-1d7461bb85a6
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/da7b119e-1be9-451d-8ffc-97e57159359f
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/125df06a-a7c0-4e97-8813-016891ef040d
 
-Finally, we show some videos taken during the attack in the physical world and you can see all the videos in the `videos` folder:
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/a1e9ba33-162e-4b06-b252-122170cbfcf1
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/2bdf326b-5e73-43a5-88a3-2d1883ea8a93
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/3b6845a0-acd2-44f2-beb8-6db24d9d07b3
+Then, we show some videos taken during the attack in the physical world:
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/b22908d1-6312-40aa-8ff0-37a3824d95e6
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/1420fb71-ab14-4fab-9346-7d985a35e184
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/e9e6b4ba-c7bb-421f-9e9d-6f1c61c1bafe
 
-https://github.com/yzslry/Electronic-Music-Assassin/assets/46239997/b45c3794-9471-44d3-82fe-b3ac6ba72671
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/91e00a30-accd-431b-8837-a6843487047e
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/856453aa-67aa-422e-bc5c-56ecbee45dc1
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/c1b52470-35ed-40d3-a9cb-d7a555b9e1a2
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/e05c09e7-ba2c-4b69-8ba4-9458a8d9a865
+
+Finally, we present a demo that automatically wakes up Google Assistant and successfully executes an attack：
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/9d36565c-2ee2-4504-9fe0-80adf7c7e62d
 
