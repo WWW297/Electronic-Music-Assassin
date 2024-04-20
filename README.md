@@ -33,26 +33,11 @@ python attack_physical.py --speech-file-path target_TTS_path --music-file-path .
 AEs will be saved in folder `physical_samples` and you need the test wheather they are successful in the physical devices.
 
 # Demos
-You can see the AEs we used in our survey on human auditory perception in the folder `AEs`. AEs for both the physical and digital worlds are included in it.
+You can see the AEs we used in our user study on human auditory perception in the folder `AEs`. AEs for both the physical and digital worlds are included in it. To minimize the impact of player quality and ambient noise on the actual perception, we recommend listening to these demos using headphones.
 
 To facilitate comparison, we split the target commands into two groups, one half for comparison in the physical world and the other half for comparison in the digital world.
 
-We first show five groups of AEs on Google Assistant in the physical world:
-
-
-https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/71214dff-5e78-4f6d-9021-571a8bb8eaec
-
-https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/08b8da7d-a22a-4f5c-b088-2d16c9cc2468
-
-https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/8962286b-5075-4aec-9735-697f600d8b7e
-
-https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/92bed9f4-0c22-4d6f-9856-b036c729658a
-
-https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/2ed19fda-e55c-47e8-9ca0-7e71570bcf0f
-
-
-Next we present five groups of AEs in the digital world:
-
+We first show five groups of AEs on Google Assistant in the digital world:
 
 https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/bef9f92d-0bb0-488b-bbd6-6d96b1c59f84
 
@@ -63,6 +48,20 @@ https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/861736c1-9
 https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/125df06a-a7c0-4e97-8813-016891ef040d
 
 https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/a1e9ba33-162e-4b06-b252-122170cbfcf1
+
+
+
+Next we present five groups of AEs in the physical world:
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/71214dff-5e78-4f6d-9021-571a8bb8eaec
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/08b8da7d-a22a-4f5c-b088-2d16c9cc2468
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/8962286b-5075-4aec-9735-697f600d8b7e
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/92bed9f4-0c22-4d6f-9856-b036c729658a
+
+https://github.com/NDSS279/Electronic-Music-Assassin/assets/157971566/2ed19fda-e55c-47e8-9ca0-7e71570bcf0f
 
 
 Then, we show some videos taken during the attack in the physical world:
