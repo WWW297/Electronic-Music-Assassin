@@ -4,7 +4,7 @@ This repository is the core implementation of the black-box audio adversarial at
 # Installation
 1.Clone this repo.
 ```
-git clone https://github.com/WWW297/Electronic-Music-Assassin.git
+git clone https://github.com/Cybersecurity-Electronic-Music-Assassin/Electronic-Music-Assassin.git
 cd Electronic-Music-Assassin
 ```
 2.Create a virtual environment running Python 3.8 interpreter of later.
